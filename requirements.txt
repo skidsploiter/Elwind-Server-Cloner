@@ -1,1 +1,6 @@
-pypresencediscordcoloramaserverclone
+psutil
+pypresence
+discord.py==1.7.3
+discord
+asyncio
+colorama
